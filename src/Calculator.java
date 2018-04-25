@@ -1,9 +1,9 @@
 /**
  * 
- * Project 6
+ * Calculator
  *   
- *   @author Alex Lacey
- *   @version 20171103
+ * @author Alex Lacey
+ * @version 20171103
  *   
  */
 
